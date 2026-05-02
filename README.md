@@ -1,4 +1,3 @@
-Markdown
 # Material Informatics for SOFC Cathode Design: SCaSC-SDC System
 
 Bu proje, orta ve düşük çalışma sıcaklıkları (**400-650°C**) için geliştirilen **SCaSC-SDC** ($Sr_{1-x}Ca_xSm_yCo_{3-\delta}$ - Samaryum Katkılı Seryum Oksit) kompozit katotların yapısal kararlılığını ve termodinamik özelliklerini analiz etmek amacıyla geliştirilmiştir. Çalışma, malzeme bilimi prensiplerini modern bilişim (informatics) araçlarıyla birleştirerek deneysel süreç öncesi teorik bir optimizasyon sunar.
