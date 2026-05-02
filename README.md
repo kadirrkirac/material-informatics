@@ -1,5 +1,3 @@
-GitHub reponun README.md dosyasına doğrudan yapıştırabileceğin Markdown kodunu aşağıda bulabilirsin. Dosyayı düzenle (edit) moduna alıp bu içeriği yapıştırdığında her şey doğru formatta ve profesyonel görünecektir.
-
 Markdown
 # Material Informatics for SOFC Cathode Design: SCaSC-SDC System
 
